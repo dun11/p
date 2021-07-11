@@ -1,3 +1,7 @@
+#- type: webfuzzsub
+#  options:
+#    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+
 - type: webfuzzsub
   options:
-      url: https://raw.githubusercontent.com/du5/free/master/sub.list
+    url: https://www.google.com/search?q=inurl%3Aclash%2Fproxies
