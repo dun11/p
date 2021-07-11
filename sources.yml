@@ -1,13 +1,30 @@
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/proxies
+
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+
+- type: clash
+  options:
+    url: https://proxypool.fly.dev/clash/proxies
+
+- type: clash
+  options:
+    url: https://sspool.nl/clash/proxies
+
+
 # 模糊抓取订阅链接
 
 - type: webfuzzsub
-#  options:
+  options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
 - type: webfuzzsub
-#  options:
+  options:
     url: http://d.zaix.ru/ntiL.txt
 
 - type: webfuzzsub
-#  options:
+  options:
     url: https://github.com/JACKUSR2089/v2ray-subscribed
