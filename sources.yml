@@ -1,10 +1,10 @@
 # 模糊抓取订阅链接
 
-- type: webfuzzsub
+#- type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
-- type: webfuzzsub
+#- type: webfuzzsub
   options:
     url: http://d.zaix.ru/ntiL.txt
 
