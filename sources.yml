@@ -1,16 +1,16 @@
-- type: webfuzz
+- type: subscribe
   options:
     url: https://fq.lonxin.net/clash/proxies
 
-- type: webfuzz
+- type: subscribe
   options:
     url: https://sspool.herokuapp.com/clash/proxies
 
-- type: webfuzz
+- type: subscribe
   options:
     url: https://proxypool.fly.dev/clash/proxies
 
-- type: webfuzz
+- type: subscribe
   options:
     url: https://sspool.nl/clash/proxies
 
