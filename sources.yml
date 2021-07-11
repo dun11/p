@@ -1,17 +1,14 @@
-- type: subscribe
-  options:
-    url: https://fq.lonxin.net/clash/proxies
+# 模糊抓取订阅链接
 
-- type: subscribe
+- type: webfuzzsub
   options:
-    url: https://sspool.herokuapp.com/clash/proxies
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
-- type: subscribe
+- type: webfuzzsub
   options:
-    url: https://proxypool.fly.dev/clash/proxies
+    url: http://d.zaix.ru/ntiL.txt
 
-- type: subscribe
+- type: webfuzzsub
   options:
-    url: https://sspool.nl/clash/proxies
-
+    url: https://github.com/JACKUSR2089/v2ray-subscribed
 
