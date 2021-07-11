@@ -5,3 +5,8 @@
 - type: webfuzzsub
   options:
     url: https://www.google.com/search?q=inurl%3Aclash%2Fproxies
+
+- type: webfuzz
+  options:
+    url: https://www.google.com/search?q=inurl%3Aclash%2Fproxies
+
